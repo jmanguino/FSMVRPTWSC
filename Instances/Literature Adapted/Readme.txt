@@ -1,7 +1,7 @@
 The literature adpted instances use the client data from Solomon (1986)'s VRPTW instances. It is available at: http://w.cba.neu.edu/~msolomon/problems.htm
 In this folder you will find the vehicle data that should be used.
 
-The file is organized a for each instance group.
+The file is organized as presented bellow for each instance group.
 
 C1                -> Instance group (R1, R2, C1, C2, RC1 or RC2)
 3                 -> Number of types of vehicles (K)
