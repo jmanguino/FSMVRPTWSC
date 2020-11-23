@@ -1,5 +1,8 @@
-The literature adapted instances use the client data from Solomon (1986)'s VRPTW instances. It is available at: http://w.cba.neu.edu/~msolomon/problems.htm
-In this folder you will find the vehicle data that should be used.
+The literature adapted instances use the client data from Solomon (1986)'s VRPTW instances. They are available at: http://w.cba.neu.edu/~msolomon/problems.htm
+In this folder you will find the clients localization, demand, time windows, service time and vehicle costs and capacity that should be used.
+
+For clients localization, demand, time windows and service time, you can find one file for each group of instances (R1, R2, C1, C2, RC1 or RC2).
+For vehicle costs and capacity, the Vehicles.txt file contains the data for all the groups.
 
 The file is organised for each instance group.
 Ex.:
