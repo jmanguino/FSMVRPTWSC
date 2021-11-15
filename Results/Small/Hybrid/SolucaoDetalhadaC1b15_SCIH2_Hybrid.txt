@@ -1,0 +1,8 @@
+Instance Name: C1b15
+Qty_Routes: 3 Total_Distance: 228.8 Total_Cost: 253
+List of ROUTES:
+#  Cost Demand Distance k f Clients
+1 103 100 101.9 1 4 0 1 15 12 13 14 2 0
+2 75 80 69.5 1 2 0 9 8 10 11 7 5 4 0
+3 75 50 57.4 1 2 0 6 3 0
+

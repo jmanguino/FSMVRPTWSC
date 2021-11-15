@@ -1,0 +1,7 @@
+Instance Name: C2c15
+Qty_Routes: 2 Total_Distance: 154.7 Total_Cost: 230
+List of ROUTES:
+#  Cost Demand Distance k f Clients
+1 100 150 74 1 1 0 10 8 7 9 11 13 12 14 15 0
+2 130 90 80.7 1 2 0 2 3 1 4 6 5 0
+
