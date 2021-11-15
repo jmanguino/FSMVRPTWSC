@@ -1,0 +1,6 @@
+Instance Name: R2a10
+Qty_Routes: 1 Total_Distance: 253.9 Total_Cost: 536
+List of ROUTES:
+#  Cost Demand Distance k f Clients
+1 536 124 253.9 1 4 0 2 5 7 8 6 9 3 10 1 4 0
+

@@ -1,0 +1,10 @@
+Instance Name: RC1b10
+Qty_Routes: 5 Total_Distance: 376.6 Total_Cost: 142
+List of ROUTES:
+#  Cost Demand Distance k f Clients
+1 35 38 123.3 1 4 0 7 10 0
+2 47 80 90.5 2 3 0 5 4 1 0
+3 28 40 80.2 1 3 0 2 3 0
+4 20 24 51.6 1 2 0 8 9 0
+5 12 26 31 1 1 0 6 0
+

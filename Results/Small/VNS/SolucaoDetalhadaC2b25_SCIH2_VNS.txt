@@ -1,0 +1,8 @@
+Instance Name: C2b25
+Qty_Routes: 3 Total_Distance: 346.3 Total_Cost: 716
+List of ROUTES:
+#  Cost Demand Distance k f Clients
+1 286 290 209.1 1 4 0 4 2 3 1 8 24 25 22 21 23 18 16 15 17 19 20 0
+2 230 110 96.4 1 2 0 10 12 5 6 7 11 13 0
+3 200 70 40.8 1 1 0 9 14 0
+
