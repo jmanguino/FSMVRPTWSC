@@ -1,0 +1,7 @@
+Constructive Heuristics: SCIH2
+Indexes: Best Known Combo
+After constructive heuristics: VNS Basic_Relocate
+Instance Time_SCIH2 Result_SCIH2 #Routes Time_VNS SolVNS Routes Qt.Improvements
+Dia1 0.021 27189 66 780.015 24338.4 66 47
+Dia2 0.007 28907.1 62 780.012 27623.8 62 37
+Dia3 0.009 28654.2 67 780.01 25378.1 67 46
