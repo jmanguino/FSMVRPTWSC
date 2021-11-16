@@ -1,0 +1,9 @@
+Instance Name: R2c10
+Qty_Routes: 4 Total_Distance: 286.7 Total_Cost: 180
+List of routes:
+#  Cost Demand Distance k f Clients
+1 45 39 76.8 1 1 0 9 3 1 0
+2 45 40 79.6 1 1 0 5 7 8 0
+3 45 19 67.1 1 1 0 6 10 0
+4 45 26 63.2 1 1 0 2 4 0
+

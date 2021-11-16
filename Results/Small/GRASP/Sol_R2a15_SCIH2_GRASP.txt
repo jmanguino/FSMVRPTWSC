@@ -1,0 +1,10 @@
+Instance Name: R2a15
+Qty_Routes: 5 Total_Distance: 440.2 Total_Cost: 2310
+List of routes:
+#  Cost Demand Distance k f Clients
+1 480 54 83.4 1 2 0 11 9 15 1 0
+2 480 50 129.9 1 2 0 12 13 6 4 0
+3 450 40 79.6 1 1 0 5 7 8 0
+4 450 33 72.5 1 1 0 14 10 0
+5 450 20 74.8 1 1 0 2 3 0
+

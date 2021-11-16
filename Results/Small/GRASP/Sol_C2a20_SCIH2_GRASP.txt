@@ -1,0 +1,8 @@
+Instance Name: C2a20
+Qty_Routes: 3 Total_Distance: 201.4 Total_Cost: 3030
+List of routes:
+#  Cost Demand Distance k f Clients
+1 1030 130 114.6 1 2 0 5 6 8 7 11 13 18 16 15 17 19 20 0
+2 1000 100 43.8 1 1 0 4 2 3 1 0
+3 1000 130 43 1 1 0 12 10 9 14 0
+
