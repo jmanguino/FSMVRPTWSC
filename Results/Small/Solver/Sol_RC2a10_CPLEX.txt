@@ -1,0 +1,7 @@
+Instance Name: RC2a10
+Qty_Routes: 3 Total_Distance: 300,0 Total_Cost: 506,0
+List of Routes:
+# Cost Distance Clients
+1 178,0 83,8 0 5 3 4 0
+2 178,0 136,8 0 8 9 7 6 0
+3 150,0 79,4 0 2 1 10 0

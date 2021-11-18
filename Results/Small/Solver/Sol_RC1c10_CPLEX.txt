@@ -1,0 +1,8 @@
+Instance Name: RC1c10
+Qty_Routes: 4 Total_Distance: 272,7 Total_Cost: 90,0
+List of Routes:
+# Cost Distance Clients
+1 48,0 93,7 0 2 5 3 4 1 10 0
+2 14,0 51,6 0 8 9 0
+3 22,0 96,4 0 7 0
+4 6,0 31,0 0 6 0

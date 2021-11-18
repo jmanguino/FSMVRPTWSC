@@ -1,0 +1,7 @@
+Instance Name: C2b20
+Qty_Routes: 3 Total_Distance: 192,1 Total_Cost: 600,0
+List of Routes:
+# Cost Distance Clients
+1 200,0 71,3 0 5 6 8 7 17 19 20 0
+2 200,0 43,8 0 4 2 3 1 0
+3 200,0 77,0 0 12 10 9 14 11 13 18 16 15 0

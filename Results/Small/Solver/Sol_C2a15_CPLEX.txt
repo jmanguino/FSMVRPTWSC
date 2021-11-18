@@ -1,0 +1,6 @@
+Instance Name: C2a15
+Qty_Routes: 2 Total_Distance: 170,7 Total_Cost: 2030,0
+List of Routes:
+# Cost Distance Clients
+1 1030,0 102,2 0 2 3 1 4 6 5 15 0
+2 1000,0 68,5 0 10 8 7 9 11 13 12 14 0

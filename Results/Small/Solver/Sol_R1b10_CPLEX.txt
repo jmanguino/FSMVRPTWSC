@@ -1,0 +1,10 @@
+Instance Name: R1b10
+Qty_Routes: 6 Total_Distance: 331,5 Total_Cost: 104,0
+List of Routes:
+# Cost Distance Clients
+1 24,0 70,2 0 6 5 0
+2 10,0 30,0 0 7 0
+3 24,0 78,2 0 9 10 0
+4 18,0 64,0 0 4 0
+5 10,0 29,5 0 1 8 0
+6 18,0 59,6 0 2 3 0

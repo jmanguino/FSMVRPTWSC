@@ -1,0 +1,6 @@
+Instance Name: R2b20
+Qty_Routes: 2 Total_Distance: 456,5 Total_Cost: 323,0
+List of Routes:
+# Cost Distance Clients
+1 203,0 316,6 0 5 15 2 14 16 18 7 6 9 3 20 10 1 4 0
+2 120,0 139,9 0 12 19 11 8 17 13 0

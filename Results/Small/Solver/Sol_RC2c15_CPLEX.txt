@@ -1,0 +1,9 @@
+Instance Name: RC2c15
+Qty_Routes: 5 Total_Distance: 421,9 Total_Cost: 131,0
+List of Routes:
+# Cost Distance Clients
+1 15,0 77,6 0 14 8 7 15 0
+2 43,0 105,2 0 4 5 2 3 0
+3 43,0 109,5 0 6 13 9 0
+4 15,0 76,2 0 1 0
+5 15,0 53,4 0 11 10 12 0

@@ -1,0 +1,7 @@
+Instance Name: R2c20
+Qty_Routes: 3 Total_Distance: 415,2 Total_Cost: 221,0
+List of Routes:
+# Cost Distance Clients
+1 45,0 76,2 0 12 3 4 0
+2 45,0 79,7 0 5 16 17 13 0
+3 131,0 259,3 0 2 15 14 19 11 7 18 8 6 9 20 10 1 0
